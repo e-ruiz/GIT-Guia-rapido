@@ -1,5 +1,5 @@
-# Git-Quick-Reference
-A short GIT referece to survive on development
+# Guia de referência do GIT
+Um guia rápido para sobreviver no dia-a-dia de desenvolvimento
 
 **Compilado do guia:**
 https://training.github.com/kit/downloads/pt/github-git-cheat-sheet.pdf
