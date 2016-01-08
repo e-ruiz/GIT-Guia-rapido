@@ -1,15 +1,13 @@
 # Git-Quick-Reference
 A short GIT referece to survive on development
 
-
 **Compilado do guia:**
-
 https://training.github.com/kit/downloads/pt/github-git-cheat-sheet.pdf
 
 **OBS.:** esse guia está incompleto, acesse o link acima para ver a versão completa.
 
 
-# INSTALE O GIT
+## Instale o GIT
 
 GitHub fornece clientes desktop que incluem uma interface gráfica para as ações mais comuns em um  repositório e atualiza automaticamente para a linha de comando do Git para cenários avançados.
 
@@ -22,7 +20,7 @@ Distribuições do Git para Linux e sistemas POSIX são disponíveis no site ofi
 **Git para todas plataformas:** http://git-scm.com
 
 
-# CONFIGURE A FERRAMENTA
+## Configure a Ferramenta
 
 Com o parâmetro ```--global```, você configura informações de usuário para todos os repositórios locais.
 
@@ -42,7 +40,7 @@ $ git config --global color.ui auto
 ```
 
 
-# CRIE REPOSITÓRIOS
+## Crie Repositórios
 Inicie um novo repositório ou obtenha de uma URL existente.
 
 Cria um novo repositório local com um nome específico:
@@ -56,7 +54,7 @@ $ git clone [url]
 ```
 
 
-# FAÇA MUDANÇAS
+## Faça Mudanças
 Revise edições e crie uma transação de commit.
 
 Lista todos os arquivos novos ou modificados para serem commitados
@@ -90,7 +88,7 @@ $ git commit -m "mensagem descritiva"
 ```
 
 
-# MUDANÇAS EM GRUPO
+## Mudanças em Grupo
 Nomeie uma série de commits e combine os esforços completos.
 
 Lista todos os branches locais no repositório atual
